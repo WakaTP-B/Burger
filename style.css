@@ -30,6 +30,7 @@ p{
 .sousbloc1 {
     display: flex;
     justify-content: space-evenly;
+    flex-wrap: wrap;
 }
 
 .burger {
@@ -39,7 +40,8 @@ p{
 
 .bloc2 {
     background-color: orange;
-    padding: 50px
+    padding: 50px;
+    flex-wrap: wrap;
 }
 
 .carte {
